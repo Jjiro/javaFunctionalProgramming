@@ -24,7 +24,11 @@ public class Lambdas {
             return name.toLowerCase();
         };
 
+        System.out.println("...1");
         System.out.println(upperCaseName.apply("Andrew"));
+        System.out.println("...2");
+        System.out.println(lowerCaseName.apply("Mandy", 33));
+        System.out.println("...3");
         System.out.println(lowerCaseName.apply("Mandy", null));
 
     }
