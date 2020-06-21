@@ -16,7 +16,7 @@ public class Main {
 
         //System.out.println(new CustomerValidatorService().isValid(customer));
         /**CustomerValidatorService customerValidatorService = new CustomerValidatorService();
-        customerValidatorService.isValid(customer); */
+        customerValidatorService.isValid(customer);**/
 
         // if valid we can store customer in db
 
