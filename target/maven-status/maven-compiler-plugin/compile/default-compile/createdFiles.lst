@@ -1,0 +1,5 @@
+functionalInterface/_Function.class
+functionalInterface/_Supplier.class
+functionalInterface/_Predicate.class
+functionalInterface/_Consumer$Customer.class
+functionalInterface/_Consumer.class
